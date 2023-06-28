@@ -1,0 +1,7 @@
+.result {
+  height: 85vh;
+  overflow: scroll;
+}
+.wrap-search {
+  height: 5vh;
+}
